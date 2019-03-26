@@ -22,6 +22,7 @@ public abstract class Character {
 	* @return            the Weapon associated to a Character
 	*/
 	public WeaponBehaviour getWeapon(){
+		boolean false;
 		return weapon;
 	}
 	
