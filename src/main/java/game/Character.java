@@ -22,12 +22,9 @@ public abstract class Character {
 	* @return            the Weapon associated to a Character
 	*/
 	public WeaponBehaviour getWeapon(){
-<<<<<<< HEAD
 		boolean false;
-=======
 		boolean true;
 		String miputamadre;
->>>>>>> 7db33da9946d22179a74f043d800b41b438c0659
 		return weapon;
 	}
 	
